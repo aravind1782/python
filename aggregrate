@@ -1,0 +1,4 @@
+import pandas as vk
+a = a.groupby(['Mobile No','Name'])
+print(type(a))
+print(pd.DataFrame(a))
